@@ -13,13 +13,13 @@
 
 ## Connect with me here!
 
-[<img align="left" alt="Sam | Linkedin" width="45px" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-15-512.png"/>][linkedin]
-[<img align="left" alt="Sam | Instagram" width="45px" src="https://www.flaticon.com/free-icon/instagram_4494489"/>][instagram]
-[<img align="left" alt="Sam | X" width="45px" src="https://www.flaticon.com/free-icon/threads_12105339"/>][threads]
+[<img align="left" alt="Sam | Linkedin" width="45px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-512.png"/>][linkedin]
+[<img align="left" alt="Sam | Instagram" width="45px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png"/>][instagram]
+[<img align="left" alt="Sam | X" width="45px" src="https://cdn3.iconfinder.com/data/icons/social-media-2247/100/Threads-2-512.png"/>][threads]
 
-[linkedin]: https://www.google.com
-[instagram]: https://www.google.com
-[threads]: https://www.google.com
+[linkedin]: https://www.linkedin.com/in/sam-duarte-5327b5167/
+[instagram]: https://www.instagram.com/_forza_art/
+[threads]: https://www.threads.net/@_forza_art
 
 <!--
 **ForzaEncode/ForzaEncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
